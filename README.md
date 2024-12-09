@@ -33,6 +33,9 @@ Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
 - [x] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 - [] Imenik z repozitorijem stisnite v arhiv, ga preimenujte v nekaj oblike `ImePriimek.zip` in ga oddajte na učilnico.
 
+## 7.domača naloga 
+[spletna stran](https://enejremec.github.io/)
+
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
